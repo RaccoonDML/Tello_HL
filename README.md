@@ -4,7 +4,7 @@
 ## 运行说明
 - 1、运行环境和Tello_Video_With_Pose_Recognition项目一致，详情参考README_OLD.md
 - 2、需要新建img文件夹，作为拍照的图片保存位置
-- 3、model/googlenet文件夹下应有synset_words.txt，bvlc_googlenet.prototxt，bvlc_googlenet.caffemodel文件 
+- 3、model/googlenet文件夹下应有synset_words.txt，bvlc_googlenet.prototxt，bvlc_googlenet.caffemodel文件。
 模型文件下载地址
 链接：https://pan.baidu.com/s/1MaGl599Lqztma8ECRUfK8g
 提取码：2wj1
